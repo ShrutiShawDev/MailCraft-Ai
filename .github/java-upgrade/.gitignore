@@ -1,2 +1,13 @@
-hello-world-ext/
+# Spring Boot
+**/target/
 **/application.properties
+
+# Node
+**/node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Ignore test extension
+hello-world-ext/
